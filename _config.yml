@@ -102,6 +102,6 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/<username>/<project>
+  repo: https://github.com/Winver10/winver10.github.io
   # example, https://github.com/hexojs/hexojs.github.io
-  branch: gh-pages
+  branch: main
