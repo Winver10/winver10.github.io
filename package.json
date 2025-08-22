@@ -12,9 +12,6 @@
     "version": "7.3.0"
   },
   "dependencies": {
-    "@waline/client": "^3.6.0",
-    "@waline/hexo-next": "^3.0.1",
-    "@waline/vercel": "^1.32.3",
     "hexo": "^7.3.0",
     "hexo-generator-archive": "^2.0.0",
     "hexo-generator-category": "^2.0.0",

@@ -674,7 +674,7 @@ comments:
   style: tabs
   # Choose a comment system to be displayed by default.
   # Available values: disqus | disqusjs | changyan | livere | gitalk | utterances
-  active: waline
+  active:
   # Setting `true` means remembering the comment system selected by the visitor.
   storage: true
   # Lazyload all comment systems.
@@ -686,19 +686,6 @@ comments:
     #  order: -1
     #gitalk:
     #  order: -2
-
-waline:
-  enable: true
-  serverURL: "https://nmxtoeph.api.lncldglobal.com"
-  appId: "NmxtoepHAhk8vezxncHGWgKX-MdYXbMMI"
-  appKey: "6vLvKaZo4QihhhyJU11qyE6a6vLvKaZo4QihhhyJU11qyE6a"
-  placeholder: "Say anything..."
-  avatar: "mp"
-  meta: ["nick", "mail", "link"]
-  requiredFields: ["nick", "mail"]
-  pageSize: 10
-  lang: "en"
-  libURL: https://unpkg.com/@waline/client@v2/dist/waline.js
 
 # Disqus
 # For more information: https://disqus.com
