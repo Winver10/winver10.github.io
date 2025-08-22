@@ -689,7 +689,7 @@ comments:
 
 waline:
   enable: true
-  serverURL: "https://nmxtoeph.api.lncldglobal.com"
+  serverURL: "https://the-server-of-a-website-of-winver10.netlify.app/"
   appId: "NmxtoepHAhk8vezxncHGWgKX-MdYXbMMI"
   appKey: "6vLvKaZo4QihhhyJU11qyE6a6vLvKaZo4QihhhyJU11qyE6a"
   placeholder: "Say anything..."
